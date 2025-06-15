@@ -1,0 +1,10 @@
+Feira de Adoção de Animais,0.00,20/06/2025
+Curso de Cuidados Básicos com Pets,50.00,25/06/2025
+Vacinação Comunitária,30.00,30/06/2025
+Encontro de Raças Caninas,20.00,05/07/2025
+Workshop de Adestramento,80.00,10/07/2025
+Conferencia Python,150.00,2025/07/10
+Workshop IA,80.50,2025/08/05
+Hackathon Devs,0.00,2025/09/01
+Feira de Inovacao,50.00,2025/10/20
+Palestra Ciberseguranca,25.00,2025/11/15
